@@ -1,4 +1,4 @@
-package giveChange;
+package leetcode860;
 
 public class CheckCorrectChangeFunction {
     public boolean lemonadeChange(int[] bills) {
