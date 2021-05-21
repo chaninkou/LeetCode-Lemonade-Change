@@ -2,7 +2,7 @@ package leetcode860;
 
 public class CheckCorrectChangeFunction {
     public boolean lemonadeChange(int[] bills) {
-        // No changes on the hand, so there are zero bills
+        // No changes on the hand
         int five = 0;
         int ten = 0;
         
